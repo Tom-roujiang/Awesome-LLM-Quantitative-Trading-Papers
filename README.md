@@ -80,12 +80,15 @@
 
 ## 📄 Factor Mining
 
-1. LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction (24-06)[[Arxiv]](https://arxiv.org/pdf/2406.10811)
+1. LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction (24-06) [[Arxiv]](https://arxiv.org/pdf/2406.10811)
 
 2. R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization (CMU, MSRA, NeurIPS 2025) [[Arxiv]](https://arxiv.org/pdf/2505.15155) [[Github]](https://github.com/microsoft/RD-Agent)
-
-
 
 ## ☀️ Focasting
 
 1. AIA Forecaster: Technical Report (Bridgewater AIA Research, 25-11) [[Arxiv]](https://arxiv.org/pdf/2511.07678)
+
+
+## 📚 Survey
+
+1. From Deep Learning to LLMs: A survey of AI in Quantitative Investment (HKUST, 25-03) [[Arxiv]](https://arxiv.org/pdf/2503.21422v1)
