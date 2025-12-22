@@ -84,6 +84,8 @@
 
 - R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization (CMU, MSRA, NeurIPS 2025) [[Arxiv]](https://arxiv.org/pdf/2505.15155) [[Github]](https://github.com/microsoft/RD-Agent)
 
+- Alpha-GPT: Human-AI Interactive Alpha Mining for Quantitative Investment [[Arxiv]](https://arxiv.org/pdf/2308.00016)
+
 ## ☀️ Focasting
 
 - AIA Forecaster: Technical Report (Bridgewater AIA Research, 25-11) [[Arxiv]](https://arxiv.org/pdf/2511.07678)
