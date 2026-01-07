@@ -55,7 +55,7 @@
 ## 📈 Arena 
 - DeepFund: Will LLM be Professional at Fund Investment? A Live Arena Perspective (HKUST, NeurIPS 2025) [[DeepFund]](https://github.com/HKUSTDial/DeepFund)
 
-- AI-Trader: Can AI Beat the Market? (HKU) [[AI-Trader]](https://github.com/HKUDS/AI-Trader)
+- AI-Trader: Can AI Beat the Market? (HKU, 25-12) [[GitHub]](https://github.com/HKUDS/AI-Trader) [[Arxiv]](https://arxiv.org/pdf/2512.10971)
 
 
 ## 🔥 LLM Post-training
