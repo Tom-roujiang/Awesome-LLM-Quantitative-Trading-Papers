@@ -60,13 +60,15 @@
 
 ## 🔥 LLM Post-training
 
-- MM-DREX: Multimodal-Driven Dynamic Routing of LLM Experts for Financial Trading （ZJU, CityU）
+- MM-DREX: Multimodal-Driven Dynamic Routing of LLM Experts for Financial Trading （25-09, ZJU, CityU）[[Arxiv]](https://arxiv.org/pdf/2509.05080)
 
 - Trading-R1 : Financial Trading with LLM Reasoning via Reinforcement Learning （25-09, UCLA, UW, Stanford, Tauric Research）[[Arxiv]](https://arxiv.org/abs/2509.11420)
 
 - RETuning: Upgrading Inference-Time Scaling for Stock Movement Prediction with Large Language Models (HKUST, Hithink Research, IDEA) [[GitHub]](https://github.com/LinXueyuanStdio/RETuning/tree/main)
 
 - AlphaQuanter: An End-to-End Tool-Orchestrated Agentic Reinforcement Learning Framework for Stock Trading (HKUST) [[Arxiv]](https://www.arxiv.org/pdf/2510.14264) [[Github]](https://github.com/AlphaQuanter/AlphaQuanter)
+
+- Alpha-R1: Alpha Screening with LLM Reasoning via Reinforcement Learning (Finstep, SJTU) [[Arxiv]](https://www.arxiv.org/pdf/2512.23515) [[GitHub]](https://github.com/FinStep-AI/Alpha-R1)
 
 
 ## 💰 Financial Reward Model
