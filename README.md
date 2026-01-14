@@ -31,7 +31,7 @@
 
 ## 📊 Financial Benchmark 
 
-- Can LLM-based Financial Investing Strategies Outperform the Market in Long Run? (25-05,KDD2026) [[Arxiv]](https://arxiv.org/abs/2505.07078)
+- Can LLM-based Financial Investing Strategies Outperform the Market in Long Run? (25-05, KDD2026) [[Arxiv]](https://arxiv.org/abs/2505.07078)
 
 - FCMR: Robust Evaluation of Financial Cross-Modal Multi-Hop Reasoning [[Arxiv]](https://arxiv.org/pdf/2412.12567)
 
@@ -68,7 +68,7 @@
 
 - AlphaQuanter: An End-to-End Tool-Orchestrated Agentic Reinforcement Learning Framework for Stock Trading (HKUST) [[Arxiv]](https://www.arxiv.org/pdf/2510.14264) [[Github]](https://github.com/AlphaQuanter/AlphaQuanter)
 
-- Alpha-R1: Alpha Screening with LLM Reasoning via Reinforcement Learning (Finstep, SJTU) [[Arxiv]](https://www.arxiv.org/pdf/2512.23515) [[GitHub]](https://github.com/FinStep-AI/Alpha-R1)
+- Alpha-R1: Alpha Screening with LLM Reasoning via Reinforcement Learning (Finstep, SJTU, 25-12) [[Arxiv]](https://www.arxiv.org/pdf/2512.23515) [[GitHub]](https://github.com/FinStep-AI/Alpha-R1)
 
 
 ## 💰 Financial Reward Model
@@ -96,3 +96,5 @@
 ## 📚 Survey
 
 - From Deep Learning to LLMs: A survey of AI in Quantitative Investment (HKUST, 25-03) [[Arxiv]](https://arxiv.org/pdf/2503.21422v1)
+
+- LLMs for Quantitative Investment Research: A Practitioner's Guide (UCL, DWS, 25-12) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5934015)
