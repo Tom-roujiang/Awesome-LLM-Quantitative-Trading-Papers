@@ -88,6 +88,8 @@
 
 - Alpha-GPT: Human-AI Interactive Alpha Mining for Quantitative Investment [[Arxiv]](https://arxiv.org/pdf/2308.00016)
 
+- FactorMAD: A Multi-Agent Debate Framework Based on Large Language Models for Interpretable Stock Alpha Factor Mining (THU, ICAIF 2025) [[Paper]](https://dl.acm.org/doi/10.1145/3768292.3770377)
+
 ## ☀️ Focasting
 
 - AIA Forecaster: Technical Report (Bridgewater AIA Research, 25-11) [[Arxiv]](https://arxiv.org/pdf/2511.07678)
