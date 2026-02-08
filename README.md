@@ -31,9 +31,9 @@
 
 ## 📊 Financial Benchmark 
 
-- Can LLM-based Financial Investing Strategies Outperform the Market in Long Run? (25-05, KDD2026) [[Arxiv]](https://arxiv.org/abs/2505.07078)
+- Can LLM-based Financial Investing Strategies Outperform the Market in Long Run? (University of Edinburgh, KDD2026) [[Arxiv]](https://arxiv.org/abs/2505.07078)
 
-- FCMR: Robust Evaluation of Financial Cross-Modal Multi-Hop Reasoning [[Arxiv]](https://arxiv.org/pdf/2412.12567)
+- FCMR: Robust Evaluation of Financial Cross-Modal Multi-Hop Reasoning (Hanyang University, ACL 2025) [[Arxiv]](https://arxiv.org/pdf/2412.12567)
 
 - FINMME: Benchmark Dataset for Financial Multi-Modal Reasoning Evaluation [[Arxiv]](https://arxiv.org/pdf/2505.24714)
 
@@ -64,7 +64,7 @@
 
 - Trading-R1 : Financial Trading with LLM Reasoning via Reinforcement Learning （UCLA, UW, Stanford, Tauric Research, 25-09）[[Arxiv]](https://arxiv.org/abs/2509.11420)
 
-- RETuning: Upgrading Inference-Time Scaling for Stock Movement Prediction with Large Language Models (HKUST, Hithink Research, IDEA) [[GitHub]](https://github.com/LinXueyuanStdio/RETuning/tree/main)
+- RETuning: Upgrading Inference-Time Scaling for Stock Movement Prediction with Large Language Models (HKUST, Hithink Research, IDEA, 25-10) [[Arxiv]](https://arxiv.org/abs/2510.21604) [[GitHub]](https://github.com/LinXueyuanStdio/RETuning/tree/main)
 
 - AlphaQuanter: An End-to-End Tool-Orchestrated Agentic Reinforcement Learning Framework for Stock Trading (HKUST) [[Arxiv]](https://www.arxiv.org/pdf/2510.14264) [[Github]](https://github.com/AlphaQuanter/AlphaQuanter)
 
@@ -78,6 +78,8 @@
 
 ## 💲 Stock Prediction
 - Exploring the Synergy of Quantitative Factors and Newsflow Representations from Large Language Models for Stock Return Prediction [[Arxiv]](https://www.arxiv.org/pdf/2510.15691)
+
+- StockMem: An Event-Reflection Memory Framework for Stock Forecasting (SUFE, 25-12) [[Arxiv]](https://arxiv.org/abs/2512.02720)
 
 
 ## 📄 Factor Mining
