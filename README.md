@@ -92,6 +92,8 @@
 
 - FactorMAD: A Multi-Agent Debate Framework Based on Large Language Models for Interpretable Stock Alpha Factor Mining (THU, ICAIF 2025) [[Paper]](https://dl.acm.org/doi/10.1145/3768292.3770377)
 
+- QuantaAlpha: LLM-Driven Self-Evolving Framework for Factor Mining (SUFE, 26-02) [[Arxiv]](https://arxiv.org/abs/2602.07085) [[Github]](https://github.com/QuantaAlpha/QuantaAlpha)
+
 ## ☀️ Focasting
 
 - AIA Forecaster: Technical Report (Bridgewater AIA Research, 25-11) [[Arxiv]](https://arxiv.org/pdf/2511.07678)
