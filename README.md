@@ -14,7 +14,7 @@
 
 ##  🤖️ Trading Agents
 
-- CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading (NUS, 24-07, EMNLP 2024) [[Arxiv]](https://arxiv.org/abs/2407.09546)
+- CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading (NUS, EMNLP 2024) [[Arxiv]](https://arxiv.org/abs/2407.09546)
 
 -  ContestTrade: A Multi-Agent Trading System Based on Internal Contest Mechanism (Finstep) [[GitHub]](https://github.com/FinStep-AI/ContestTrade)
 
@@ -35,7 +35,7 @@
 
 - FCMR: Robust Evaluation of Financial Cross-Modal Multi-Hop Reasoning (Hanyang University, ACL 2025) [[Arxiv]](https://arxiv.org/pdf/2412.12567)
 
-- FINMME: Benchmark Dataset for Financial Multi-Modal Reasoning Evaluation [[Arxiv]](https://arxiv.org/pdf/2505.24714)
+- FINMME: Benchmark Dataset for Financial Multi-Modal Reasoning Evaluation (PKU, 25-05) [[Arxiv]](https://arxiv.org/pdf/2505.24714)
 
 - FinMMR: Make Financial Numerical Reasoning More Multimodal, Comprehensive, and Challenging [[Arxiv]](https://arxiv.org/pdf/2508.04625v1)
 
@@ -70,6 +70,8 @@
 
 - Alpha-R1: Alpha Screening with LLM Reasoning via Reinforcement Learning (Finstep, SJTU, 25-12) [[Arxiv]](https://www.arxiv.org/pdf/2512.23515) [[GitHub]](https://github.com/FinStep-AI/Alpha-R1)
 
+- Janus-Q: End-to-End Event-Driven Trading via Hierarchical-Gated Reward Modeling (HKUST, 26-02) [[Arxiv]](https://arxiv.org/html/2602.19919v1)
+
 
 ## 💰 Financial Reward Model
 
@@ -84,11 +86,11 @@
 
 ## 📄 Factor Mining
 
-- LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction (24-06) [[Arxiv]](https://arxiv.org/pdf/2406.10811)
+- LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction (The University of Tokyo, 24-06) [[Arxiv]](https://arxiv.org/pdf/2406.10811)
 
 - R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization (CMU, MSRA, NeurIPS 2025) [[Arxiv]](https://arxiv.org/pdf/2505.15155) [[Github]](https://github.com/microsoft/RD-Agent)
 
-- Alpha-GPT: Human-AI Interactive Alpha Mining for Quantitative Investment [[Arxiv]](https://arxiv.org/pdf/2308.00016)
+- Alpha-GPT: Human-AI Interactive Alpha Mining for Quantitative Investment (HKUST, 25-09) [[Arxiv]](https://arxiv.org/pdf/2308.00016)
 
 - FactorMAD: A Multi-Agent Debate Framework Based on Large Language Models for Interpretable Stock Alpha Factor Mining (THU, ICAIF 2025) [[Paper]](https://dl.acm.org/doi/10.1145/3768292.3770377)
 
