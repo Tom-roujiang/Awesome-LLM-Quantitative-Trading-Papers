@@ -3,7 +3,7 @@
 <div align="center">
 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+[![GitHub](https://img.shields.io/github/stars/Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers)](https://github.com/Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers)  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
 </div>
 
@@ -77,7 +77,7 @@
 
 - RETuning: Upgrading Inference-Time Scaling for Stock Movement Prediction with Large Language Models (HKUST, Hithink Research, IDEA, 25-10) [[Arxiv]](https://arxiv.org/abs/2510.21604) [[GitHub]](https://github.com/LinXueyuanStdio/RETuning/tree/main)
 
-- AlphaQuanter: An End-to-End Tool-Orchestrated Agentic Reinforcement Learning Framework for Stock Trading (HKUST) [[Arxiv]](https://www.arxiv.org/pdf/2510.14264) [[Github]](https://github.com/AlphaQuanter/AlphaQuanter)
+- AlphaQuanter: An End-to-End Tool-Orchestrated Agentic Reinforcement Learning Framework for Stock Trading (HKUST) [[Arxiv]](https://www.arxiv.org/pdf/2510.14264) [[GitHub]](https://github.com/AlphaQuanter/AlphaQuanter)
 
 - Alpha-R1: Alpha Screening with LLM Reasoning via Reinforcement Learning (Finstep, SJTU, 25-12) [[Arxiv]](https://www.arxiv.org/pdf/2512.23515) [[GitHub]](https://github.com/FinStep-AI/Alpha-R1)
 
@@ -99,13 +99,13 @@
 
 - LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction (The University of Tokyo, 24-06) [[Arxiv]](https://arxiv.org/pdf/2406.10811)
 
-- R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization (CMU, MSRA, NeurIPS 2025) [[Arxiv]](https://arxiv.org/pdf/2505.15155) [[Github]](https://github.com/microsoft/RD-Agent)
+- R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization (CMU, MSRA, NeurIPS 2025) [[Arxiv]](https://arxiv.org/pdf/2505.15155) [[GitHub]](https://github.com/microsoft/RD-Agent)
 
 - Alpha-GPT: Human-AI Interactive Alpha Mining for Quantitative Investment (HKUST, 25-09) [[Arxiv]](https://arxiv.org/pdf/2308.00016)
 
 - FactorMAD: A Multi-Agent Debate Framework Based on Large Language Models for Interpretable Stock Alpha Factor Mining (THU, ICAIF 2025) [[Paper]](https://dl.acm.org/doi/10.1145/3768292.3770377)
 
-- QuantaAlpha: LLM-Driven Self-Evolving Framework for Factor Mining (SUFE, 26-02) [[Arxiv]](https://arxiv.org/abs/2602.07085) [[Github]](https://github.com/QuantaAlpha/QuantaAlpha)
+- QuantaAlpha: LLM-Driven Self-Evolving Framework for Factor Mining (SUFE, 26-02) [[Arxiv]](https://arxiv.org/abs/2602.07085) [[GitHub]](https://github.com/QuantaAlpha/QuantaAlpha)
 
 - FactorMiner: A Self-Evolving Agent with Skills and Experience
 Memory for Financial Alpha Discovery (THU, 26-02) [[Arxiv]](https://arxiv.org/pdf/2602.14670)
