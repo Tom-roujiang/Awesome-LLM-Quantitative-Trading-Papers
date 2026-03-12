@@ -12,7 +12,7 @@
 🚀 A curated collection of papers focusing on **LLM-based quantitative trading**. If you have additional papers, insights, or updates to suggest, feel free to raise them in the Issues section. 
 
 ## 📋 Contents
-- [🤖️ Trading Agents](#🤖️-trading-agents)
+- [🤖️ Trading Agents](#trading-agents)
 - [📊 Financial Benchmark](#📊-financial-benchmark)
 - [📈 Arena](#📈-arena)
 - [🔥 LLM Post-training](#🔥-llm-post-training)
@@ -20,9 +20,9 @@
 - [💲 Stock Prediction](#💲-stock-prediction)
 - [📄 Factor Mining](#📄-factor-mining)
 - [☀️ Forecasting](#☀️-forecasting)
-- [📚 Survey](#📚-survey)
+- [📚 Survey](#survey)
 
-
+<a id="trading-agents"></a>
 ##  🤖️ Trading Agents
 
 - CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading (NUS, EMNLP 2024) [[Arxiv]](https://arxiv.org/abs/2407.09546)
@@ -116,7 +116,7 @@ Memory for Financial Alpha Discovery (THU, 26-02) [[Arxiv]](https://arxiv.org/pd
 
 - FinDeepForecast: A Live Multi-Agent System for Benchmarking Deep Research Agents in Financial Forecasting (NUS, 26-01) [[Arxiv]](http://arxiv.org/abs/2601.05039) [[Website]](https://openfinarena.com)
 
-
+<a id="survey"></a>
 ## 📚 Survey
 
 - From Deep Learning to LLMs: A survey of AI in Quantitative Investment (HKUST, 25-03) [[Arxiv]](https://arxiv.org/pdf/2503.21422v1)
