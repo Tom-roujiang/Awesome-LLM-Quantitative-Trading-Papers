@@ -1,7 +1,7 @@
 # Awesome LLM Quantitative Trading Papers
 
 <div align="center">
-<!-- <h2><font color="red"> Awesome-Controllable-Video-Generation </h2> -->
+
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
@@ -10,6 +10,18 @@
 
 ## Introduction
 🚀 A curated collection of papers focusing on **LLM-based quantitative trading**. If you have additional papers, insights, or updates to suggest, feel free to raise them in the Issues section. 
+
+## 📋 Contents
+- [Introduction](#introduction)
+- [🤖️ Trading Agents](#🤖️-trading-agents)
+- [📊 Financial Benchmark](#📊-financial-benchmark)
+- [📈 Arena](#📈-arena)
+- [🔥 LLM Post-training](#🔥-llm-post-training)
+- [💰 Financial Reward Model](#💰-financial-reward-model)
+- [💲 Stock Prediction](#💲-stock-prediction)
+- [📄 Factor Mining](#📄-factor-mining)
+- [☀️ Forecasting](#☀️-forecasting)
+- [📚 Survey](#📚-survey)
 
 
 ##  🤖️ Trading Agents
@@ -24,7 +36,7 @@
 
 - QuantAgent: Price-Driven Multi-Agent LLMs for High-Frequency Trading (SBU, 25-09) [[Arxiv]](https://arxiv.org/abs/2509.09995) [[GitHub]](https://github.com/Y-Research-SBU/QuantAgent)
 
-- Trade in Minutes! Rationality-Driven Agentic System for Quantitative Financial Trading (TJU, MSRA, 25-10) [[Arxiv]](https://arxiv.org/pdf/2510.04787)
+- Trade in Minutes! Rationality-Driven Agentic System for Quantitative Financial Trading (TJU, MSRA, ICLR 2026) [[Arxiv]](https://arxiv.org/pdf/2510.04787)
 
 - TradeTrap: Are LLM-based Trading Agents Truly Reliable and Faithful? (Shanghai AI Lab, 25-12) [[Arxiv]](https://arxiv.org/pdf/2512.02261) [[GitHub]](https://github.com/Yanlewen/TradeTrap)
 
@@ -79,7 +91,7 @@
 
 
 ## 💲 Stock Prediction
-- Exploring the Synergy of Quantitative Factors and Newsflow Representations from Large Language Models for Stock Return Prediction [[Arxiv]](https://www.arxiv.org/pdf/2510.15691)
+- Exploring the Synergy of Quantitative Factors and Newsflow Representations from Large Language Models for Stock Return Prediction (RAM, 25-11) [[Arxiv]](https://www.arxiv.org/pdf/2510.15691)
 
 - StockMem: An Event-Reflection Memory Framework for Stock Forecasting (SUFE, 25-12) [[Arxiv]](https://arxiv.org/abs/2512.02720)
 
@@ -96,7 +108,10 @@
 
 - QuantaAlpha: LLM-Driven Self-Evolving Framework for Factor Mining (SUFE, 26-02) [[Arxiv]](https://arxiv.org/abs/2602.07085) [[Github]](https://github.com/QuantaAlpha/QuantaAlpha)
 
-## ☀️ Focasting
+- FactorMiner: A Self-Evolving Agent with Skills and Experience
+Memory for Financial Alpha Discovery (THU, 26-02) [[Arxiv]](https://arxiv.org/pdf/2602.14670)
+
+## ☀️ Forecasting
 
 - AIA Forecaster: Technical Report (Bridgewater AIA Research, 25-11) [[Arxiv]](https://arxiv.org/pdf/2511.07678)
 
