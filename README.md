@@ -12,7 +12,6 @@
 🚀 A curated collection of papers focusing on **LLM-based quantitative trading**. If you have additional papers, insights, or updates to suggest, feel free to raise them in the Issues section. 
 
 ## 📋 Contents
-- [Introduction](#introduction)
 - [🤖️ Trading Agents](#🤖️-trading-agents)
 - [📊 Financial Benchmark](#📊-financial-benchmark)
 - [📈 Arena](#📈-arena)
