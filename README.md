@@ -13,17 +13,17 @@
 
 ## 📋 Contents
 - [🤖️ Trading Agents](#trading-agents)
-- [📊 Financial Benchmark](#📊-financial-benchmark)
-- [📈 Arena](#📈-arena)
-- [🔥 LLM Post-training](#🔥-llm-post-training)
-- [💰 Financial Reward Model](#💰-financial-reward-model)
-- [💲 Stock Prediction](#💲-stock-prediction)
-- [📄 Factor Mining](#📄-factor-mining)
-- [☀️ Forecasting](#☀️-forecasting)
+- [📊 Financial Benchmark](#financial-benchmark)
+- [📈 Arena](#arena)
+- [🔥 LLM Post-training](#llm-post-training)
+- [💰 Financial Reward Model](#financial-reward-model)
+- [💲 Stock Prediction](#stock-prediction)
+- [📄 Factor Mining](#factor-mining)
+- [☀️ Forecasting](#forecasting)
 - [📚 Survey](#survey)
 
 <a id="trading-agents"></a>
-##  🤖️ Trading Agents
+## 🤖️ Trading Agents
 
 - CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading (NUS, EMNLP 2024) [[Arxiv]](https://arxiv.org/abs/2407.09546)
 
@@ -39,7 +39,7 @@
 
 - TradeTrap: Are LLM-based Trading Agents Truly Reliable and Faithful? (Shanghai AI Lab, 25-12) [[Arxiv]](https://arxiv.org/pdf/2512.02261) [[GitHub]](https://github.com/Yanlewen/TradeTrap)
 
-
+<a id="financial-benchmark"></a>
 ## 📊 Financial Benchmark 
 
 - Can LLM-based Financial Investing Strategies Outperform the Market in Long Run? (University of Edinburgh, KDD2026) [[Arxiv]](https://arxiv.org/abs/2505.07078)
@@ -62,13 +62,13 @@
 
 - PHANTOM: A Benchmark for Hallucination Detection in Financial Long-Context QA (Goldman Sachs, NeurIPS 2025) [[OpenReview]](https://openreview.net/pdf?id=5YQAo0S3Hm)
 
-
+<a id="arena"></a>
 ## 📈 Arena 
 - DeepFund: Will LLM be Professional at Fund Investment? A Live Arena Perspective (HKUST, NeurIPS 2025) [[DeepFund]](https://github.com/HKUSTDial/DeepFund)
 
 - AI-Trader: Can AI Beat the Market? (HKU, 25-12) [[GitHub]](https://github.com/HKUDS/AI-Trader) [[Arxiv]](https://arxiv.org/pdf/2512.10971)
 
-
+<a id="llm-post-training"></a>
 ## 🔥 LLM Post-training
 
 - MM-DREX: Multimodal-Driven Dynamic Routing of LLM Experts for Financial Trading （ZJU, CityU, 25-09）[[Arxiv]](https://arxiv.org/pdf/2509.05080)
@@ -83,18 +83,17 @@
 
 - Janus-Q: End-to-End Event-Driven Trading via Hierarchical-Gated Reward Modeling (HKUST, 26-02) [[Arxiv]](https://arxiv.org/html/2602.19919v1)
 
-
+<a id="financial-reward-model"></a>
 ## 💰 Financial Reward Model
-
 - Fin-PRM: A Domain-Specialized Process Reward Model for Financial Reasoning in Large Language Models (Qwen Dianjin Team)
 
-
+<a id="stock-prediction"></a>
 ## 💲 Stock Prediction
 - Exploring the Synergy of Quantitative Factors and Newsflow Representations from Large Language Models for Stock Return Prediction (RAM, 25-11) [[Arxiv]](https://www.arxiv.org/pdf/2510.15691)
 
 - StockMem: An Event-Reflection Memory Framework for Stock Forecasting (SUFE, 25-12) [[Arxiv]](https://arxiv.org/abs/2512.02720)
 
-
+<a id="factor-mining"></a>
 ## 📄 Factor Mining
 
 - LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction (The University of Tokyo, 24-06) [[Arxiv]](https://arxiv.org/pdf/2406.10811)
@@ -110,6 +109,7 @@
 - FactorMiner: A Self-Evolving Agent with Skills and Experience
 Memory for Financial Alpha Discovery (THU, 26-02) [[Arxiv]](https://arxiv.org/pdf/2602.14670)
 
+<a id="forecasting"></a>
 ## ☀️ Forecasting
 
 - AIA Forecaster: Technical Report (Bridgewater AIA Research, 25-11) [[Arxiv]](https://arxiv.org/pdf/2511.07678)
