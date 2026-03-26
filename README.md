@@ -62,6 +62,8 @@
 
 - PHANTOM: A Benchmark for Hallucination Detection in Financial Long-Context QA (Goldman Sachs, NeurIPS 2025) [[OpenReview]](https://openreview.net/pdf?id=5YQAo0S3Hm)
 
+- AlphaForgeBench: Benchmarking End-to-End Trading Strategy Design with Large Language Models (NTU, HKUST, 26-02) [[Arxiv]](https://arxiv.org/pdf/2602.18481)
+
 <a id="arena"></a>
 ## 📈 Arena 
 - DeepFund: Will LLM be Professional at Fund Investment? A Live Arena Perspective (HKUST, NeurIPS 2025) [[DeepFund]](https://github.com/HKUSTDial/DeepFund)
