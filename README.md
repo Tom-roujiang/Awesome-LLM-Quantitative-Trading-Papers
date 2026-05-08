@@ -64,6 +64,8 @@
 
 - AlphaForgeBench: Benchmarking End-to-End Trading Strategy Design with Large Language Models (NTU, HKUST, 26-02) [[Arxiv]](https://arxiv.org/pdf/2602.18481)
 
+- QuantCode-Bench: A Benchmark for Evaluating the Ability of Large Language Models to Generate Executable Algorithmic Trading Strategies (Lime, 26-04) [[Arxiv]](https://arxiv.org/abs/2604.15151) [[GitHub]](https://github.com/LimexAILab/QuantCode-Bench)
+
 <a id="arena"></a>
 ## 📈 Arena 
 - DeepFund: Will LLM be Professional at Fund Investment? A Live Arena Perspective (HKUST, NeurIPS 2025) [[DeepFund]](https://github.com/HKUSTDial/DeepFund)
@@ -110,6 +112,8 @@
 
 - FactorMiner: A Self-Evolving Agent with Skills and Experience
 Memory for Financial Alpha Discovery (THU, 26-02) [[Arxiv]](https://arxiv.org/pdf/2602.14670)
+
+- Cognitive Alpha Mining via LLM-Driven Code-Based Evolution (HKU, GIM, ACL2026) [[Arxiv]](https://arxiv.org/pdf/2511.18850)
 
 <a id="forecasting"></a>
 ## ☀️ Forecasting
