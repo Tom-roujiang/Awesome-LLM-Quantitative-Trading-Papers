@@ -110,7 +110,7 @@ Memory for Financial Alpha Discovery (THU, 26-02) [[Arxiv]](https://arxiv.org/pd
 
 - Cognitive Alpha Mining via LLM-Driven Code-Based Evolution (HKU, GIM, ACL2026) [[Arxiv]](https://arxiv.org/pdf/2511.18850)
 
-- AlphaAgentEvo: Evolution-Oriented Alpha Mining via Self-Evolving Agentic Reinforcement Learning (SYSU, NTU, ICLR2026)[OpenReview](https://openreview.net/pdf?id=lNmZrawUMu)
+- AlphaAgentEvo: Evolution-Oriented Alpha Mining via Self-Evolving Agentic Reinforcement Learning (SYSU, NTU, ICLR2026)[[OpenReview]](https://openreview.net/pdf?id=lNmZrawUMu)
 
 <a id="forecasting"></a>
 ## ☀️ Forecasting
