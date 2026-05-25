@@ -16,7 +16,6 @@
 - [📊 Financial Benchmark](#financial-benchmark)
 - [📈 Arena](#arena)
 - [🔥 LLM Post-training](#llm-post-training)
-- [💰 Financial Reward Model](#financial-reward-model)
 - [💲 Stock Prediction](#stock-prediction)
 - [📄 Factor Mining](#factor-mining)
 - [☀️ Forecasting](#forecasting)
@@ -39,6 +38,8 @@
 
 - TradeTrap: Are LLM-based Trading Agents Truly Reliable and Faithful? (Shanghai AI Lab, 25-12) [[Arxiv]](https://arxiv.org/pdf/2512.02261) [[GitHub]](https://github.com/Yanlewen/TradeTrap)
 
+- AlphaCrafter: A Full-Stack Multi-Agent Framework for Cross-Sectional Quantitative Trading (NJU, 26-05) [[Arxiv]](https://arxiv.org/pdf/2605.05580)
+
 <a id="financial-benchmark"></a>
 ## 📊 Financial Benchmark 
 
@@ -52,9 +53,7 @@
 
 - FinRAGBench-V: A Benchmark for Multimodal RAG with Visual Citation in the Financial Domain [[Arxiv]](https://arxiv.org/pdf/2505.17471)
 
-- FinSearchComp: Towards a Realistic, Expert-Level Evaluation of Financial Search and Reasoning (Bytedance Seed)
-[[Website]](https://randomtutu.github.io/FinSearchComp/)
-[[Huggingface]](https://huggingface.co/datasets/ByteSeedXpert/FinSearchComp)
+- FinSearchComp: Towards a Realistic, Expert-Level Evaluation of Financial Search and Reasoning (Bytedance Seed) [[Website]](https://randomtutu.github.io/FinSearchComp/) [[Huggingface]](https://huggingface.co/datasets/ByteSeedXpert/FinSearchComp)
 
 - FinDeepResearch: Evaluating Deep Research Agents in Rigorous Financial Analysis（NUS, 25-10）[[Arxiv]](https://arxiv.org/pdf/2510.13936)
 
@@ -87,10 +86,6 @@
 
 - Janus-Q: End-to-End Event-Driven Trading via Hierarchical-Gated Reward Modeling (HKUST, 26-02) [[Arxiv]](https://arxiv.org/html/2602.19919v1)
 
-<a id="financial-reward-model"></a>
-## 💰 Financial Reward Model
-- Fin-PRM: A Domain-Specialized Process Reward Model for Financial Reasoning in Large Language Models (Qwen Dianjin Team)
-
 <a id="stock-prediction"></a>
 ## 💲 Stock Prediction
 - Exploring the Synergy of Quantitative Factors and Newsflow Representations from Large Language Models for Stock Return Prediction (RAM, 25-11) [[Arxiv]](https://www.arxiv.org/pdf/2510.15691)
@@ -114,6 +109,8 @@
 Memory for Financial Alpha Discovery (THU, 26-02) [[Arxiv]](https://arxiv.org/pdf/2602.14670)
 
 - Cognitive Alpha Mining via LLM-Driven Code-Based Evolution (HKU, GIM, ACL2026) [[Arxiv]](https://arxiv.org/pdf/2511.18850)
+
+- AlphaAgentEvo: Evolution-Oriented Alpha Mining via Self-Evolving Agentic Reinforcement Learning []()
 
 <a id="forecasting"></a>
 ## ☀️ Forecasting
