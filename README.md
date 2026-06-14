@@ -41,6 +41,8 @@
 - AlphaCrafter: A Full-Stack Multi-Agent Framework for Cross-Sectional Quantitative Trading (NJU, 26-05) [[Arxiv]](https://arxiv.org/pdf/2605.05580)
 
 <a id="financial-benchmark"></a>
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
+
 ## 📊 Financial Benchmark 
 
 - Can LLM-based Financial Investing Strategies Outperform the Market in Long Run? (University of Edinburgh, KDD2026) [[Arxiv]](https://arxiv.org/abs/2505.07078)
