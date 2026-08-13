@@ -22,6 +22,7 @@ A curated list of research papers, benchmarks, tools, and resources about large 
 - [🎯 Curation Policy](#curation-policy)
 - [🤝 Contributing](#contributing)
 - [📝 License](#license)
+- [SmartQuant](https://smartquanthq.com) - AI quant trading learning hub: 180 pages, 5 languages (ZH/EN/JA/KO/AR), free educational content on AI strategies, backtesting, and risk management.
 
 ## 🤖 Trading Agents
 
