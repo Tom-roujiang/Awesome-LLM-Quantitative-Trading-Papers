@@ -55,6 +55,7 @@ A curated list of research papers, benchmarks, tools, and resources about large 
 
 ## 🔥 LLM Post-Training
 
+- Xitadel-QuantBench: A Trading Benchmark Scored Against the Best Human Competition Strategy on the Same Unseen Day (SimReal, 2026-09). [![Code](https://img.shields.io/github/stars/Simreal-AI/Xitadel-QuantBench.svg?style=social&label=Star)](https://github.com/Simreal-AI/Xitadel-QuantBench) 
 - MM-DREX: Multimodal-Driven Dynamic Routing of LLM Experts for Financial Trading (ZJU, CityU, 2025-09). [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2509.05080)
 - Trading-R1: Financial Trading with LLM Reasoning via Reinforcement Learning (UCLA, UW, Stanford, Tauric Research, 2025-09). [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.11420)
 - RETuning: Upgrading Inference-Time Scaling for Stock Movement Prediction with Large Language Models (HKUST, Hithink Research, IDEA, 2025-10). [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.21604) [![Code](https://img.shields.io/github/stars/LinXueyuanStdio/RETuning.svg?style=social&label=Star)](https://github.com/LinXueyuanStdio/RETuning)
